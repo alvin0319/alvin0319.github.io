@@ -1,2 +1,3 @@
-# alvin0319.github.io
-my website
+<script>
+  window.location.assign("http://alvin0319.me");
+</script>
